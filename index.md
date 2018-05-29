@@ -1,8 +1,6 @@
 ## Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/silvi1995/silvi1995.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Silvi Pandey, currently working as an analyst in the Technology division of Goldman Sachs India Pvt Ltd.
 
 ### Markdown
 
